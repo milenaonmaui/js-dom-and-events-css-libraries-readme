@@ -36,7 +36,7 @@ aligning text, rounding corners, and so on.
 Basscss is a very lightweight CSS framework that focuses on sane defaults and
 more complex layout possibilities. It's not an all-in-one framework like
 Bootstrap or Foundation, but it will help us to help lay out the application in
-a better way. It doesn't make our buttons like fancy or anything like that, but
+a better way. It doesn't make our buttons look fancy or anything like that, but
 we're not concerned with that right now.
 
 ## Typography
